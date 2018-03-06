@@ -57,3 +57,16 @@ shapegenerater
 *.ftes
 *.fwiz
 *.log
+
+cradle
+*.mdl
+*.swu
+*.s
+*.oct
+*.j
+*.pre
+*.fld
+*.r
+*.l
+*.mon
+*.sta
