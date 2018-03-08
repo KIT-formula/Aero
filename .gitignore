@@ -46,10 +46,10 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-lookfile
+#lookfile
 *.lck
 
-shapegenerater
+#shapegenerater
 *.fmsh
 *.fres
 *.fins
@@ -58,7 +58,7 @@ shapegenerater
 *.fwiz
 *.log
 
-cradle
+#cradle
 *.mdl
 *.swu
 *.s
@@ -71,4 +71,3 @@ cradle
 *.mon
 *.sta
 *.X_T
-OldVersions/
