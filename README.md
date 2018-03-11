@@ -1,26 +1,11 @@
 # Aero
-====
-
-Overview
 
 ## Description
-
-## Demo
-
-## VS. 
+KIT-formulaエアロ班の作業リポジトリ
 
 ## Requirement
-
-## Usage
-
-## Install
-
-## Contribution
-
-## Licence
-
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+CAD(Inventor, CATIA)
 
 ## Author
 
-[tcnksm](https://github.com/tcnksm)
+[KITformula](https://github.com/orgs/KIT-formula/people/KITformula)
