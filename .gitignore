@@ -73,5 +73,6 @@ Temporary Items
 *.X_T
 *.STP.xml
 *.bak
+*.tmp
 
 /OldVersions/
