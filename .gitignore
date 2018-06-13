@@ -77,3 +77,8 @@ Temporary Items
 *.his
 
 /OldVersions/
+
+#CATIA
+*.CATDrawing
+*.CATPart
+*.CATProduct
